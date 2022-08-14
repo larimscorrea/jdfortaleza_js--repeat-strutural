@@ -1,9 +1,5 @@
-# -jdfortaleza_js--repeat-strutural PARTE 1 
 <html>
     <script> 
-    //Peço desculpas pela tarefa incompleta. Meu notebook queimou o hd na última semana e ainda não tive como consertá-lo e assim fazer as tarefas do melhor jeito como deveria. 
-    //Pretendo colocá-lo pra consertar amanhã, então em breve devo atualizar as tarefas com a correção devida.
-    // Faça um programa que imprima na tela os números de 1 a 20
     let y = 1*prompt('Digite um número que você quer que imprima na tela')
     for(x=0 ; x<=y; x++) {
         document.write(x + ' <br>');
